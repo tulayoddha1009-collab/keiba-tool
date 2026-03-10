@@ -1,6 +1,6 @@
 {
-"name": "競馬ランダムツール",
-"short_name": "競馬ツール",
+"name": "オッズ考慮当選馬メーカー",
+"short_name": "当選馬メーカー（オッズ考慮ver.）",
 "start_url": "index.html",
 "display": "standalone",
 "background_color": "#ffffff",
